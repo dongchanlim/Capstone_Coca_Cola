@@ -1,5 +1,5 @@
 **Capstone Project - Fall 2024**
-# Group-2--Swire-Coca-Cola-Predictive-Maintenance-Project
+# Group 2 -Swire Coca-Cola (Predictive-Maintenance-Project)
 This repository contains the Swire Coca-Cola Predictive Maintenance Project.
 
 
