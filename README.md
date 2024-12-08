@@ -16,9 +16,11 @@ This repository contains the Swire Coca-Cola Predictive Maintenance Project for 
 ---
 
 ## Introduction
-In today’s highly competitive beverage industry, operational efficiency is critical to maintaining market leadership. For Swire Coca-Cola, one of the largest bottlers in the world, machine downtime is more than just a technical issue — it’s a $60 million annual setback. Recognizing the urgency of this problem, our project aimed to revolutionize the company’s maintenance operations using predictive analytics.
+In the food &beverage industry, the operational efficiency is key to keep competitive position in the market. 
 
-By leveraging machine performance data, we analyzed patterns that could forecast equipment failures and optimize maintenance schedules. This proactive approach not only addresses unplanned breakdowns but also ensures smoother production cycles, reduced costs, and higher operational efficiency. Our work demonstrates how data-driven strategies can bridge the gap between innovation and execution, paving the way for a more resilient manufacturing process.
+For Swire Coca-Cola, one of the world’s largest beaverage corportate, machine downtime isn’t just a technical challenge, which causes a $60 million annual loss. To tackle this, our capstone project focused on improving the company’s maintenance operations with predictive analytics.
+
+By analyzing machine performance data, we identified the breakdown patterns to predict equipment failure occurences and optimize maintenance schedules based on the patterns. This proactive approach minimizes unplanned breakdowns, streamlines the smooth production, lowers the wastesd costs, and improves overall efficiency. Our work highlights how data-driven approaches can turn log data into actionable results, creating a stronger, more reliable manufacturing process.
 
 ---
 
