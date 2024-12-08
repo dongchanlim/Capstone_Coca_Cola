@@ -14,7 +14,7 @@ This repository contains the Swire Coca-Cola Predictive Maintenance Project for 
 ---
 
 ## Introduction
-In terms of the food & beverage industry, the production efficiency is key to keep competitive position in the market. 
+In terms of food & beverage industry, the production efficiency is key to keep competitive position in the market. 
 
 For Swire Coca-Cola, one of the world’s largest beaverage corportate, machine downtime isn’t just a technical challenge, which causes a $60 million annual loss. To tackle this problem, our capstone project focused on improving the company’s maintenance operations with predictive analytics.
 
@@ -56,7 +56,7 @@ Our survival analysis revealed the following average failure times for equipment
 - Cota (G816): Average failure time is 0.65 days.
 - Suzuka (G221): Equipment tends to fail after 1.24 days.
 
-These insights provide actionable recommendations for preemptive maintenance, helping reduce unplanned downtime across locations.
+These insights provide actionable recommendations for proactive maintenance, helping reduce unplanned downtime across locations.
 
 ---
 
@@ -67,16 +67,16 @@ These insights provide actionable recommendations for preemptive maintenance, he
 - Addressed missing values and outliers to ensure reliable model training.
 
 ### Survival Analysis
-- Conducted Kaplan-Meier survival estimates to predict equipment time-to-failure.
-- Analyzed unplanned downtime data to identify trends and probabilities of machine breakdowns.
+- Conducted Kaplan-Meier survival estimates to predict the duration of equipment time-to-failure.
+- Filtered and concentrated on unplanned downtime data to identify trends and probabilities of machine breakdowns.
 
 ### Regression Modeling
-- Built supervised regression models to predict downtime durations, achieving an RMSE of 0.72 days.
-- Implemented hyperparameter tuning to optimize predictive performance.
+- Built supervised regression models to predict downtime durations, achieving an RMSE of 82.27.
+- Implemented hyperparameter tuning to optimize the predictive performance metrics.
 
 ### Feature Engineering and Evaluation
-- Created rolling averages and lag features to enhance prediction accuracy.
-- Evaluated model performance using error metrics and survival analysis outputs.
+- Created the new variables such as rolling averages and lag features to increase prediction accuracy.
+- Evaluated model performance using error metrics and validated survival analysis outputs.
 
 ---
 
