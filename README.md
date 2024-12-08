@@ -18,19 +18,23 @@ This repository contains the Swire Coca-Cola Predictive Maintenance Project for 
 ## Introduction
 In the food & beverage industry, the operational efficiency is key to keep competitive position in the market. 
 
-For Swire Coca-Cola, one of the world’s largest beaverage corportate, machine downtime isn’t just a technical challenge, which causes a $60 million annual loss. To tackle this, our capstone project focused on improving the company’s maintenance operations with predictive analytics.
+For Swire Coca-Cola, one of the world’s largest beaverage corportate, machine downtime isn’t just a technical challenge, which causes a $60 million annual loss. To tackle this problem, our capstone project focused on improving the company’s maintenance operations with predictive analytics.
 
 By analyzing machine performance data, we identified the breakdown patterns to predict equipment failure occurences and optimize maintenance schedules based on the patterns. This proactive approach minimizes unplanned breakdowns, streamlines the smooth production, lowers the wastesd costs, and improves overall efficiency. Our work highlights how data-driven approaches can turn log data into actionable results, creating a stronger, more reliable manufacturing process.
 
 ---
 
 ## Business Problem
-Swire Coca-Cola’s six manufacturing plants produce a staggering 192 million beverages annually. However, unplanned machine breakdowns have brought production capacity down to 94.4%, causing substantial delays and financial losses. These unpredictable failures result in frequent downtime, missed production targets, and increased costs, amounting to an estimated $60 million in annual losses. Addressing this issue is essential to maintain production goals and profitability.
+Swire Coca-Cola’s six manufacturing plants produce a staggering 192 million beverages annually. 
+
+However, unplanned machine breakdowns have brought production capacity down to 94.4%, causing substantial delays and financial losses. These unpredictable failures result in frequent downtime, missed production targets, and increased costs, amounting to an estimated $60 million in annual losses. 
+
+Therefore, it is essential to maintain production goals and profitability by addressing the issue and find out resolution.
 
 ---
 
 ## Proposed Solution
-Our solution focuses on survival analysis techniques applied to unplanned downtime data, enabling the prediction of time-to-failure for critical equipment. Using predictive models and actionable insights, we proposed maintenance schedules tailored to minimize disruptions. This approach empowers Swire Coca-Cola to anticipate failures, reduce operational downtime, and optimize maintenance resources, thereby improving production capacity and reducing costs.
+Our solution focuses on survival analysis applied to unplanned downtime data, enabling the prediction of time-to-failure before critical equipment failure occurs. Using predictive models, we can allocate maintenance schedules tailored to minimize unplanned operational disruptions. This approach empowers Swire Coca-Cola to anticipate failures, reduce operational downtime, and optimize maintenance resources, thereby improving production capacity and reducing costs.
 
 ---
 
