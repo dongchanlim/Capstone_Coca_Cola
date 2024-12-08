@@ -1,6 +1,16 @@
 **Capstone Project - Fall 2024**
-# Group 2 -Swire Coca-Cola (Predictive-Maintenance-Project)
-This repository contains the Swire Coca-Cola Predictive Maintenance Project.
+
+# Swire Coca-Cola Predictive-Maintenance-Project
+This repository contains the Swire Coca-Cola Predictive Maintenance Project for Group 2.
+
+---
+
+## Team Members
+- Richard Lim
+- Ketki Kulkarni
+- Anusha Vivekanand
+- Vedika Garg
+
 
 
 ---
@@ -95,10 +105,5 @@ These results demonstrate how predictive analytics can revolutionize maintenance
 
 ---
 
-## Team Members
-- Richard Lim
-- Ketki Kulkarni
-- Anusha Vivekanand
-- Vedika Garg
 
 
