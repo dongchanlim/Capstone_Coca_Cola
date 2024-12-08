@@ -11,8 +11,6 @@ This repository contains the Swire Coca-Cola Predictive Maintenance Project for 
 - Anusha Vivekanand
 - Vedika Garg
 
-
-
 ---
 
 ## Introduction
@@ -34,24 +32,30 @@ Therefore, it is essential to maintain production goals and profitability by add
 ---
 
 ## Proposed Solution
-Our solution focuses on survival analysis applied to unplanned downtime data, enabling the prediction of time-to-failure before critical equipment failure occurs. Using predictive models, we can allocate maintenance schedules tailored to minimize unplanned operational disruptions. This approach empowers Swire Coca-Cola to anticipate failures, reduce operational downtime, and optimize maintenance resources, thereby improving production capacity and reducing costs.
+Our solution focuses on survival analysis applied to unplanned downtime data, enabling the prediction of time-to-failure before critical equipment failure occurs. 
+
+Using predictive models, we can allocate maintenance schedules tailored to minimize unplanned operational disruptions. 
+
+This approach empowers Swire Coca-Cola to anticipate failures, reduce operational downtime, and optimize maintenance resources, thereby improving production capacity and reducing costs.
 
 ---
 
 ## Model Performance Highlights
-The ElasticNet model demonstrated superior predictive performance, achieving:
+Among the multiple variations of regression model, The ElasticNet regression model demonstrated superior predictive performance, achieving:
 
-Test RMSE: 82.27
-Test MSE: 6767.92
+- Test RMSE: 82.27
+- Test MSE: 6767.92
+
 This model effectively balances bias and variance, making it a reliable choice for predicting maintenance outcomes and optimizing operations.
 
 ---
 ## Key Insights from Survival Analysis
 Our survival analysis revealed the following average failure times for equipment at key plant locations:
 
-Roma (G812): Equipment fails, on average, within 0.47 days.
-Cota (G816): Average failure time is 0.65 days.
-Suzuka (G221): Equipment tends to fail after 1.24 days.
+- Roma (G812): Equipment fails, on average, within 0.47 days.
+- Cota (G816): Average failure time is 0.65 days.
+- Suzuka (G221): Equipment tends to fail after 1.24 days.
+
 These insights provide actionable recommendations for preemptive maintenance, helping reduce unplanned downtime across locations.
 
 ---
