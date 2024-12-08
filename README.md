@@ -16,7 +16,7 @@ This repository contains the Swire Coca-Cola Predictive Maintenance Project for 
 ---
 
 ## Introduction
-In the food &beverage industry, the operational efficiency is key to keep competitive position in the market. 
+In the food & beverage industry, the operational efficiency is key to keep competitive position in the market. 
 
 For Swire Coca-Cola, one of the world’s largest beaverage corportate, machine downtime isn’t just a technical challenge, which causes a $60 million annual loss. To tackle this, our capstone project focused on improving the company’s maintenance operations with predictive analytics.
 
