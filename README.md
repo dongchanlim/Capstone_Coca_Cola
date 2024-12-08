@@ -94,10 +94,6 @@ These insights provide actionable recommendations for preemptive maintenance, he
 - Integration of IoT sensors for real-time tracking.
 - Automated maintenance workflows powered by predictive analytics.
 
----
-## Conclusion and Summary
-
-Our project highlights the critical role of data-driven maintenance strategies in addressing operational inefficiencies at Swire Coca-Cola. By leveraging survival analysis and regression models, we developed tools to forecast equipment failures and proactively reduce unplanned downtime, leading to improved production efficiency.
 
 ---
 ## Key Outcomes:
@@ -115,5 +111,8 @@ These results demonstrate how predictive analytics can revolutionize maintenance
 
 ---
 
+## Conclusion and Summary
+
+Our project highlights the critical role of data-driven maintenance strategies in addressing operational inefficiencies at Swire Coca-Cola. By leveraging survival analysis and regression models, we developed tools to forecast equipment failures and proactively reduce unplanned downtime, leading to improved production efficiency.
 
 
