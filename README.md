@@ -69,6 +69,7 @@ These insights provide actionable recommendations for proactive maintenance, hel
 ### Survival Analysis
 - Conducted Kaplan-Meier survival estimates to predict the duration of equipment time-to-failure.
 - Filtered and concentrated on unplanned downtime data to identify trends and probabilities of machine breakdowns.
+- LogRank tests were conducted as a part of robustness checks to validate the survival analysis results
 
 ### Regression Modeling
 - Built supervised regression models to predict downtime durations, achieving an RMSE of 82.27.
