@@ -48,8 +48,15 @@ Among the multiple variations of regression model, The ElasticNet regression mod
 
 This model effectively balances bias and variance, making it a reliable choice for predicting maintenance outcomes and optimizing operations.
 
+
+
 ---
 ## Key Insights from Survival Analysis
+
+- Conducted Kaplan-Meier survival estimates to predict the duration of equipment time-to-failure.
+- Filtered and concentrated on unplanned downtime data to identify trends and probabilities of machine breakdowns.
+- LogRank tests were conducted as a part of robustness checks to validate the survival analysis results
+
 Our survival analysis revealed the following average failure times for equipment at key plant locations:
 
 - Roma (G812): Equipment fails, on average, within 0.47 days.
