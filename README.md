@@ -118,16 +118,29 @@ We provided clear recommendations for optimized maintenance schedules and spare 
 These results demonstrate how predictive analytics can revolutionize maintenance operations, reducing financial losses and bolstering production resilience. we think this project serves as a valuable reference for leveraging advanced analytics to address critical challenges in manufacturing processes.
 
 ---
-## Contribution to the project
+## My contribution to the project
 
-Richard Lim has implemented the data preprocessing for predictive modeling and built the regression models for predicting the next breakdown point.
-He also organized and 
+- Implemented the data preprocessing for predictive modeling
+- Built the regression models to predict when is the next breakdown point based on the historical data
+- Structured and organized the teamwork virtual environment using online tools such as Google docs, Trello, and Teams
+- Designed the team presentation and  the compelling pitching notes.
 
 ---
 ## Difficulties that encountered along the way
 
+Since metadata & termnologies of given dataset ( was not very familiar with me, it was taking time to comprehend how the data reflects the real-case in the manufactoring process,
+
+
 ---
 ## What I learned in the project
+
+There are 2 lessons that I've learned from the project and ensured to apply for:
+
+- Delivering measurable and actionable takeaways, ensuring our insights drive real business value for stakeholders.
+- Adopting a business-first approach, focusing on the practical solutions rather than solely relying on statistical output.
+
+This project was not just about analytics but also about framework, collaboration, and real problem-solving.
+Starting from scratch, we built our project step by step—learning, iterating, and collaborating each other throughout the process. 
 
 ---
 
