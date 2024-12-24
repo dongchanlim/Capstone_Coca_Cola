@@ -120,7 +120,9 @@ These results demonstrate how predictive analytics can revolutionize maintenance
 ---
 ## My contribution to the project
 
-- Implemented the data preprocessing for predictive modeling
+As a team member of this project, I mainly contributed to the project with:
+
+- Implemented the data preprocessing and cleansing data for predictive modeling 
 - Built the regression models to predict when is the next breakdown point based on the historical data
 - Structured and organized the teamwork virtual environment using online tools such as Google docs, Trello, and Teams
 - Designed the team presentation and  the compelling pitching notes.
@@ -128,7 +130,7 @@ These results demonstrate how predictive analytics can revolutionize maintenance
 ---
 ## Difficulties that encountered along the way
 
-Since metadata & termnologies of given dataset ( was not very familiar with me, it was taking time to comprehend how the data reflects the real-case in the manufactoring process,
+Since the variable metadata & description of given dataset ('IWC_Work_Orders_Extract.csv') was not very familiar with me, it was taking time to comprehend how the data itself reflects the real-case in the manufactoring process. Also, defining what is the business problem and tranforming the data insight into business impact was tough process to navigate.
 
 
 ---
